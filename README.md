@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shamil Shamsudheen</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src"![image](https://user-images.githubusercontent.com/112370619/229508008-52e732bb-09d5-4687-912a-0525d229509a.png)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112370619/229509970-554b712e-cf57-46d7-822d-f5b2e7358e81.png">
 - 📫 How to reach me **shamilshmsudheen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
